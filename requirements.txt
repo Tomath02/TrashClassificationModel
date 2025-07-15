@@ -1,5 +1,5 @@
-streamlit==1.34.0          # versi bebas, contoh stabil
-tensorflow-cpu==2.13.0     # gunakan build CPU (lebih ringan, tanpa CUDA)
+streamlit==1.34.0
+tensorflow-cpu==2.12.0
 pillow
 pandas
 numpy
